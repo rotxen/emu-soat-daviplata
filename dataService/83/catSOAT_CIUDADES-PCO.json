@@ -1,0 +1,62 @@
+[
+    {
+      "viable": "false",
+      "nombre": "LETICIA",
+      "codDepto": "91",
+      "codigo": "001"
+    },
+    {
+      "nombre": "EL ENCANTO",
+      "codDepto": "91",
+      "codigo": "263",
+      "viable": "false"
+    },
+    {
+      "nombre": "LA CHORRERA",
+      "codDepto": "91",
+      "codigo": "405",
+      "viable": "false"
+    },
+    {
+      "nombre": "LA PEDRERA",
+      "codDepto": "91",
+      "codigo": "407",
+      "viable": "false"
+    },
+    {
+      "nombre": "LA VICTORIA",
+      "codDepto": "91",
+      "codigo": "430",
+      "viable": "false"
+    },
+    {
+      "viable": "false",
+      "nombre": "MIRITI - PARANA",
+      "codDepto": "91",
+      "codigo": "460"
+    },
+    {
+      "viable": "false",
+      "nombre": "PUERTO ALEGRIA",
+      "codDepto": "91",
+      "codigo": "530"
+    },
+    {
+      "viable": "false",
+      "nombre": "PUERTO ARICA",
+      "codDepto": "91",
+      "codigo": "536"
+    },
+    {
+      "codDepto": "91",
+      "codigo": "540",
+      "viable": "false",
+      "nombre": "PUERTO NARINO"
+    },
+    {
+      "codDepto": "91",
+      "codigo": "669",
+      "viable": "false",
+      "nombre": "PUERTO SANTANDER-AMAZONAS"
+    }
+  ]

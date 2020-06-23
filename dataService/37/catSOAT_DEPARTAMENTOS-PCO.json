@@ -1,0 +1,42 @@
+[
+    {
+      "nombre": "AMAZONAS",
+      "codigo": "91"
+    },
+    {
+      "nombre": "ANTIOQUIA",
+      "codigo": "05"
+    },
+    {
+      "nombre": "ARAUCA",
+      "codigo": "81"
+    },
+    {
+      "nombre": "ARCHIPIELAGO DE SAN ANDRES, PROVIDENCIA Y SANTA CATALINA",
+      "codigo": "88"
+    },
+    {
+      "nombre": "ATLANTICO",
+      "codigo": "08"
+    },
+    {
+      "nombre": "BOGOTA, D.C.",
+      "codigo": "11"
+    },
+    {
+      "nombre": "BOLIVAR",
+      "codigo": "13"
+    },
+    {
+      "codigo": "15",
+      "nombre": "BOYACA"
+    },
+    {
+      "codigo": "17",
+      "nombre": "CALDAS"
+    },
+    {
+      "codigo": "18",
+      "nombre": "CAQUETA"
+    }
+]

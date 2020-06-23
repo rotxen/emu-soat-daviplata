@@ -1,0 +1,20 @@
+[
+	{
+	  "id": "12",
+	  "icono": "image-soat-bnft1",
+	  "descripcion": "Atención médica de los afectados en un accidente de tránsito.",
+	  "titulo": "El Beneficio 1"
+	},
+	{
+	  "titulo": "El Beneficio 2",
+	  "id": "12",
+	  "icono": "image-soat-bnft2",
+	  "descripcion": "Asesoría jurídica telefónica para atender sus inquietudes en el momento de un accidente  de tránsito."
+	},
+	{
+	  "descripcion": "Coordinación del servicio de ambulancia al lugar del accidente de tránsito.",
+	  "titulo": "El Beneficio 3",
+	  "id": "12",
+	  "icono": "image-soat-bnft3"
+	}
+  ]

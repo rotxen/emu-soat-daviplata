@@ -1,0 +1,18 @@
+[
+    {
+      "etiqueta": "Cédula de ciudadanía",
+      "codigo": "01"
+    },
+    {
+      "etiqueta": "Cédula de extranjería",
+      "codigo": "02"
+    },
+    {
+      "etiqueta": "Tarjeta de Identidad",
+      "codigo": "03"
+    },
+    {
+      "etiqueta": "NIT",
+      "codigo": "04"
+    }
+]
