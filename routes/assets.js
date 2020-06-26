@@ -1,28 +1,13 @@
 var express = require('express');
+const request = require('request');
 var router = express.Router();
 const path = require('path');
 
-// El query "type" solo es para desarrollo local.
 router.get('/:assets_id', (req, res) => {
-  const query = req.query;
-  file = req.params.assets_id;
-  // if( query.aliado ) {
-  //   file = `${file}-A${query.aliado}`
-  // }
-  // if( query.pais ) {
-  //   file = `${file}-P${query.pais}`
-  // }
-  // if( query.modulo ) {
-  //   file = `${file}-M${query.modulo}`
-  // }
-  // if( query.canal ) {
-  //   file = `${file}-C${query.canal}`
-  // }
-  // if( query.lenguaje ) {
-  //   file = `${file}-L${query.lenguaje}`
-  // }
-  file = `${file}`
-  res.sendFile(file, { root: path.join(__dirname, '../assets') });
+  var fullUrl = 'https://mbaas.desa.co.davivienda.com/catalogo/v1'+ req.originalUrl;
+  request(fullUrl, { json: true }, (err, res2, body) => {
+    return res.send(res2.body);
+  });  
 });
 
 module.exports = router;
