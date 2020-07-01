@@ -27,6 +27,8 @@ const respuesta = (req, res) => {
        }
        return res.json(res2.body);
     });
+
+  
 };
 
 router.get('/:data_id', respuesta);
