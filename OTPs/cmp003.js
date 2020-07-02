@@ -12,10 +12,11 @@ module.exports = {
         SOAT007: 'SOAT001',
     },
     SOAT001: {
-        // status: 2,
+        status: 2,
         // payload: {
         //     canalDP: true,
-        //     message:'catSOAT_MSG_VAL_002'
+        //     // message:'catSOAT_MSG_VAL_002'
+        //     message:'catSOAT_MSG_COT_002'
         // }
         status: 1,
         payload: {
