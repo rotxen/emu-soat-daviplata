@@ -1,0 +1,24 @@
+[{
+        "cotizacion": {
+            "title": "Ingrese los siguientes datos para cotizar el SOAT:",
+            "label": "¿Cuál es la placa del vehículo?",
+            "radioLabel": "¿El vehículo se encuentra a su nombre?",
+            "radioLabel2": "SI",
+            "radioLabel3": "NO"
+        },
+        "noPropietario": {
+            "label": "¿Cuál es el tipo de identificación del propietario?",
+            "inputLabel1": "Ingrese el número de identificación",
+            "maxValueIdentificacion": 16,
+            "onlyNumbers": true,
+            "inputLabelNombre": "¿Cuál es el nombre del propietario?",
+            "maxValueNombre": 30,
+            "onlyLettersNombre": true,
+            "inputLabelApellido": "¿Cuáles son los apellidos del propietario?",
+            "onlyLettersApellido": true,
+            "maxValueApellido": 30
+
+        }
+    }
+
+]
