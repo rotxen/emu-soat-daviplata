@@ -1,0 +1,11 @@
+[{
+        "productoOrigen": {
+            "label": "¿Desde cuál producto desea realizar la compra?",
+            "placeholder": "Seleccione",
+            "minValue": 1,
+            "maxValue": 24
+        },
+        "titulo": "Ingrese los siguientes datos para continuar con la compra del SOAT:"
+    }
+
+]

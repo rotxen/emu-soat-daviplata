@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Verifique las condiciones de su solicitud:",
+        "titulos": [{
+            "tipoSeguro": "Producto seleccionado"
+        }, {
+            "placa": "Placa del Carro/Moto"
+        }, {    
+            "valorSoat": "Valor del SOAT:"
+        }, {
+            "productoOrigen": "Producto origen:"
+        }, {
+            "correo": "Correo electrónico donde recibirá la póliza:"
+        }],
+        "botonContinuar": "Comprar",
+        "botonAtras": "Atrás"
+    }
+]
