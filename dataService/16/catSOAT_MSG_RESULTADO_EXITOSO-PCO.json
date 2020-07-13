@@ -1,0 +1,22 @@
+[
+    {
+        "encabezado" : "SOAT",
+        "titulo": "Felicitaciones",
+        "subTitulo": "La compra del *SOAT* ha sido exitosa",
+        "info": "Para recibir más información sobre el SOAT *llame al #322 de Seguros Bolívar.",
+        "descripcion": "",
+        "titulos": [{
+            "inicioVigencia": "Inicio de vigencia"
+        }, {
+            "toggle": ["Más detalles", "Menos detalles"]
+        },{
+            "valorSoat": "Valor del SOAT"
+        }, {
+            "numeroAprobacion": "Número de Aprobación"
+        }, {
+            "fecha": "Fecha y hora"
+        }],
+        "footer": "El SOAT tambien le será enviado al correo electrónico registrado.",
+        "botonFinal": "Descargar SOAT"
+    }
+]
