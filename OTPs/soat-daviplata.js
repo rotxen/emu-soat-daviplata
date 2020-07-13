@@ -47,7 +47,7 @@ module.exports = {
                 apellido: 'PIEDRAS DEL RIO',
                 nombre: 'Cualquier Nombre',
               },
-              placa: '',
+              placa: 'MDX123',
         }
     },
     SOAT003: {

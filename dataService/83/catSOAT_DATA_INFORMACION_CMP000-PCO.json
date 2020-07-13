@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Complete los datos del propietario para el Carro/Moto:",
+        "buttonContinue": "Continuar",
+        "buttonBack": "Regresar",
+        "modal": {
+            "buttonContinue": "Aceptar",
+            "buttonBack": "Regresar"
+        },
+        "inputFormPropietario": [
+            {
+                "phone": {
+                    "label": "¿Cuál es el número de celular?",
+                    "maxValue": 10
+                }
+            },
+            {
+                "city": {
+                    "label": "¿Cuál es la ciudad de residencia?"
+                }
+            },
+            {
+                "addressGroup": {
+                    "label": "¿Cuál es la dirección de residencia?"
+                }
+            },
+            {
+                "aptoFloorOther": {
+                    "label": "Torre / Piso / Apartamento / Otro:",
+                    "maxValue": 30
+                }
+            },
+            {
+                "email": {
+                    "label": "¿A qué correo quiere que le enviemos el SOAT?"
+                }
+            },
+            {
+                "asesorId": {
+                    "label": "<span>Si está recibiendo ayuda de un <strong>asesor del Banco</strong>, ingrese el código del asesor.</span>`",
+                    "placeholder": "(Opcional)",
+                    "maxValue": 16
+                }
+            }
+        ]
+    }
+]
