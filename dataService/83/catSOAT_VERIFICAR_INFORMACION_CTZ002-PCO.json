@@ -1,37 +1,42 @@
 [
-    {
-       "verificar":"Verifique la información del SOAT:",
-       "valorSoat":"Valor SOAT:",
-       "titulos":[
-          {
-             "nombre":"Nombre del Propietario:"
-          },
+   {
+      "verificar": "Verifique la información del SOAT:",
+      "valorSoat": "Valor SOAT:",
+      "titulos": [
+         {
+            "nombre": "Nombre del Propietario:"
+         },
+         {
+            "lista": [
+               {
+                  "placa": "Placa del vehículo:"
+               },
+               {
+                  "modelo": "Modelo del vehículo:"
+               },
+               {
+                  "marca": "Marca del vehículo:"
+               }
+            ]
+         },
+         {
+            "inicioVigencia": "Inicio de vigencia:"
+         },
+         {
+            "toggle": [
+               "Más detalles",
+               "Menos detalles"
+            ]
+         },
          [
             {
-               "placa":"Placa del vehículo:"
-            },{
-               "modelo":"Modelo del vehículo:"
-            },{
-               "marca":"Marca del vehículo:"
+               "cilindraje": "Cilindraje del vehículo:"
+            },
+            {
+               "lineaVehiculo": "Línea del vehículo:"
             }
-         ],
-          {
-             "inicioVigencia":"Inicio de vigencia:"
-          },
-          {
-             "toggle":[
-                "Más detalles",
-                "Menos detalles"
-             ]
-          },[
-          {
-             "cilindraje":"Cilindraje del vehículo:"
-          },
-          {
-             "lineaVehiculo":"Línea del vehículo:"
-          }
          ]
-       ],
-       "buttonContinue":"Continuar"
-    }
- ]
+      ],
+      "buttonContinue": "Continuar"
+   }
+]

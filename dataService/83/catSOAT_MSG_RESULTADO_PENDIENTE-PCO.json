@@ -1,17 +1,21 @@
 [
     {
-        "encabezado" : "",
+        "encabezado": "",
         "titulo": "Compra exitosa",
         "subTitulo": "La compra del *SOAT* ha sido exitosa y será *emitido en las siguientes 24 horas.",
         "info": "Para recibir más información sobre el SOAT *llame al #322 de Seguros Bolívar.",
         "descripcion": "En caso que la vigencia de su SOAT finalice el día de hoy o este se encuentre vencido. La nueva póliza será vigente a partir del siguiente día hábil de la emisión.",
-        "titulos": [{
-            "valorSoat": "Valor del SOAT"
-        }, {
-            "numeroAprobacion": "Número de Aprobación"
-        }, {
-            "fecha": "Fecha y hora de la transacción"
-        }],
+        "titulos": [
+            {
+                "valorSoat": "Valor del SOAT"
+            },
+            {
+                "numeroAprobacion": "Número de Aprobación"
+            },
+            {
+                "fecha": "Fecha y hora de la transacción"
+            }
+        ],
         "footer": "El SOAT le será enviado al correo electrónico registrado una vez haya sido emitido.",
         "botonFinal": "Finalizar"
     }
