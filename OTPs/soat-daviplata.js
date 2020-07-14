@@ -72,7 +72,7 @@ module.exports = {
             celular:"3213298289",
             ciudad:"001",
             departamento:"11",
-            direccion:"calle,29B # 35 - 22,otros",
+            direccion:"calle,29B # 35 - 22, otros",
             correo:"lalolanas@hotmail.com"
         }
     },
