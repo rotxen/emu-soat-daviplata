@@ -1,0 +1,11 @@
+[
+	{
+		"message": "Por favor, verifique los datos diligenciados.",
+		"title": "",
+		"buttons": [
+			{
+				"buttonText": "Aceptar"
+			}
+		]
+	}
+]

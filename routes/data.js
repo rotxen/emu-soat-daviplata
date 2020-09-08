@@ -8,20 +8,22 @@ const path = require('path');
 const respuesta = (req, res) => {
 
   var fullUrl = 'https://mbaas.desa.co.davivienda.com/catalogo/v1'+ req.originalUrl;
+  // var fullUrl = ''+ req.originalUrl;
 
     request(fullUrl, { json: true }, (err, res2, body) => {
       if (err || res2.body.length === 0) {
         console.warn('====XXXXX>        ', fullUrl);
         const query = req.query;
         file = req.params.data_id;
-        if( query.canal ) {
-          file = `${file}-PCO`
+        if( query.pais ) {
+          // file = `${file}-P${query.pais}`
+          file = `${file}`
         }
         file = `${file}.json`
-        if ( query.canal ) {
-          res.sendFile(file, { root: path.join(__dirname, `../dataService/${query.canal}`) });
-          return;
-        }
+        // if ( query.pais ) {
+        //   res.sendFile(file, { root: path.join(__dirname, `../dataService/${query.pais}`) });
+        //   return;
+        // }
         res.sendFile(file, { root: path.join(__dirname, '../dataService') });
         return;
        }
