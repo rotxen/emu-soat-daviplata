@@ -28,14 +28,16 @@
                "Menos detalles"
             ]
          },
-         [
-            {
-               "cilindraje": "Cilindraje del vehículo:"
-            },
-            {
-               "lineaVehiculo": "Línea del vehículo:"
-            }
-         ]
+         {
+            "lista": [
+               {
+                  "cilindraje": "Cilindraje del vehículo:"
+               },
+               {
+                  "lineaVehiculo": "Línea del vehículo:"
+               }
+            ]
+         }
       ],
       "buttonContinue": "Continuar"
    }

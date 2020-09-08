@@ -74,10 +74,11 @@ module.exports = {
         status:1,
         payload: {
             celular:"3213298289",
-            ciudad:"001",
-            departamento:"11",
-            direccion:"calle,29B # 35 - 22,otros",
-            correo:"lalolanas@hotmail.com"
+            ciudad:"126",
+            departamento:"25",
+            direccion:"manzana 29B # 35 - 22 otros",
+            correo:"lalolanas@hotmail.com",
+            // asesorId: '256326545'
         }
     },
     SOAT005: {
